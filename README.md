@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Live Site : https://merry-gnome-006e20.netlify.app/
+## Live Site : https://master--crypto-tracker-dy2001.netlify.app/
 
 ## Available Scripts
 
